@@ -4,10 +4,7 @@ Aplicativo desenvolvido em Java. Unicesumar - 2020/01
 ## Exercício proposto:
 
 [...]
-Atividade 1 (Valor 0,5) 
-
-- A empresa Etec situada na capital paulista (São Paulo) oferece cursos diversos de aperfeiçoamento profissional na área de (mecânica, pintura, azulejista, funileiro, soldador, entre outros) a um
-custo baixo e ainda pode ter descontos em folha de pagamento se for colaborador de empresas parceiras.
+Atividade 1 (Valor 0,5) - A empresa Etec situada na capital paulista (São Paulo) oferece cursos diversos de aperfeiçoamento profissional na área de (mecânica, pintura, azulejista, funileiro, soldador, entre outros) a um custo baixo e ainda pode ter descontos em folha de pagamento se for colaborador de empresas parceiras.
 
 Desta forma, os cursos tem grande procura de alunos.
 
@@ -19,9 +16,7 @@ Diante do contexto acima, o dono da Etec necessita de uma modelagem UML (Diagram
 - O cadastro de aluno compreende: nome, número da carteira de identidade, CPF, data de nascimento, endereço completo e telefones de contato.
 
 [...]
-Atividade 2 (Valor 1,0) 
-– O professor João Messias, possui uma coleção de revistas em quadrinhos que vem adquirindo desde a sua infância, e sempre empresta para seus amigos (professores). Contudo, a fim de
-não perder as revistas, necessita realizar uma aplicação que cadastra as revistas e controla o empréstimo.
+Atividade 2 (Valor 1,0) - O professor João Messias, possui uma coleção de revistas em quadrinhos que vem adquirindo desde a sua infância, e sempre empresta para seus amigos (professores). Contudo, a fim de não perder as revistas, necessita realizar uma aplicação que cadastra as revistas e controla o empréstimo.
 - Para cada revista cadastram-se: o tipo da coleção (por exemplo: Cebolinha, Pato Donald, Batman etc.), o número da edição, o ano da revista e a caixa onde está guardada. Cada caixa tem uma cor, uma etiqueta e
 um número.
 - Para cada empréstimo cadastram-se: o amigo que pegou a revista, qual foi a revista, a data de empréstimo e a data de devolução. Cada amigo só pode pegar uma revista por empréstimo.
